@@ -1,6 +1,6 @@
 # ShipAgents 🤖⚙️
 
-AI Systems Engineer building autonomous agents, backend automation pipelines, and full-stack AI applications.
+AI Systems Engineer building autonomous agents, backend automation pipelines, full-stack AI applications, and mobile AI experiences.
 
 ---
 
@@ -11,6 +11,7 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - 🤖 Autonomous AI agents (tool-using, reasoning, multi-step execution flows)
 - ⚙️ Backend automation systems (Python, FastAPI, event-driven architectures)
 - 🌐 Full-stack AI applications (React + AI-powered user experiences)
+- 📱 Cross-platform mobile applications (React Native / Expo)
 - 🔗 API-driven automation pipelines (webhooks, integrations, data orchestration)
 
 ---
@@ -22,19 +23,23 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - OpenAI / LLM APIs
 - Agent-based architectures (tool calling, workflow orchestration)
 
-### Frontend
-- React, JavaScript (ES6+), Vite
+### Frontend & Mobile
+- React, React Native, Expo
+- JavaScript (ES6+), Vite
 - AI-integrated UI systems
+- Cross-platform mobile app development (iOS / Android)
 
 ### Infrastructure / Tools
 - REST APIs, Webhooks
 - Docker (basic)
 - Cloud deployment (AWS / similar)
 
+---
+
 ## 🎯 Current Focus
 
 - Building production-grade multi-agent systems
 - Designing scalable automation and workflow pipelines
 - Exploring tool-using AI architectures and orchestration
+- Building AI-powered web & mobile experiences
 - Shipping real-world AI products and systems
-
