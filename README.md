@@ -32,8 +32,10 @@ I design and ship production-oriented AI systems that automate real-world workfl
 ### Infrastructure / Tools
 - REST APIs, Webhooks
 - Docker (basic)
-- Cloud deployment (AWS / similar)
-
+- Railway, AWS (basic)
+- CI/CD, deployment workflows
+- Environment variables & API orchestration
+  
 ---
 
 ## 🎯 Current Focus
