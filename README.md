@@ -13,6 +13,7 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - 🌐 Full-stack AI applications (React + AI-powered user experiences)
 - 📱 Cross-platform mobile applications (React Native / Expo)
 - 🔗 API-driven automation pipelines (webhooks, integrations, data orchestration)
+- 🛒 E-commerce automation systems (Shopify, WordPress, API & workflow integrations)
 
 ---
 
@@ -29,13 +30,18 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - AI-integrated UI systems
 - Cross-platform mobile app development (iOS / Android)
 
+### E-commerce & CMS Integrations
+- Shopify (Storefront API, Admin API, webhook automation, workflow systems)
+- WordPress (REST API, headless CMS, custom plugins, automation pipelines)
+- AI-powered content and product automation systems
+
 ### Infrastructure / Tools
 - REST APIs, Webhooks
 - Docker (basic)
 - Railway, AWS (basic)
 - CI/CD, deployment workflows
 - Environment variables & API orchestration
-  
+
 ---
 
 ## 🎯 Current Focus
@@ -44,4 +50,12 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - Designing scalable automation and workflow pipelines
 - Exploring tool-using AI architectures and orchestration
 - Building AI-powered web & mobile experiences
+- Integrating AI systems with e-commerce platforms (Shopify, WordPress)
 - Shipping real-world AI products and systems
+
+---
+
+## 🚀 Vision
+
+Turning real-world workflows into autonomous, intelligent systems that reduce manual work and scale decision-making through AI.
+
