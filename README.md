@@ -20,7 +20,7 @@ I design and ship production-oriented AI systems that automate real-world workfl
 ## 🧰 Tech Stack
 
 ### AI / Backend
-- Python, FastAPI, Node.js
+- Python, Django, FastAPI, Node.js, Express, Java, Spring
 - OpenAI / LLM APIs
 - Agent-based architectures (tool calling, workflow orchestration)
 
