@@ -10,7 +10,7 @@ I design and ship production-oriented AI systems that automate real-world workfl
 
 - 🤖 Autonomous AI agents (tool-using, reasoning, multi-step execution flows)
 - ⚙️ Backend automation systems (Python, FastAPI, event-driven architectures)
-- 🌐 Full-stack AI applications (React + AI-powered user experiences)
+- 🌐 Full-stack AI applications (Angular, React + AI-powered user experiences)
 - 📱 Cross-platform mobile applications (React Native / Expo)
 - 🔗 API-driven automation pipelines (webhooks, integrations, data orchestration)
 - 🛒 E-commerce automation systems (Shopify, WordPress, API & workflow integrations)
@@ -25,7 +25,7 @@ I design and ship production-oriented AI systems that automate real-world workfl
 - Agent-based architectures (tool calling, workflow orchestration)
 
 ### Frontend & Mobile
-- React, React Native, Expo
+- Angular, React, React Native, Expo
 - JavaScript (ES6+), Vite
 - AI-integrated UI systems
 - Cross-platform mobile app development (iOS / Android)
