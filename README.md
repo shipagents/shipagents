@@ -1,4 +1,4 @@
-# ShipAgents 🤖⚙️
+# Sr.Fullstack AI Developer 🤖⚙️
 
 AI Systems Engineer building autonomous agents, backend automation pipelines, full-stack AI applications, and mobile AI experiences.
 
